@@ -1,0 +1,5 @@
+# NUCLEO-H723ZG ETH TCP Client test
+Hi!
+Here i test Ethernet LwIP TCP/IP Client test
+
+Because i can't correctly configure SNTP implemented in LwIP library. I implemented my own SNTP protocol.
